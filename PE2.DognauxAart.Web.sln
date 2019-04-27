@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE2.DognauxAart.Web", "PE2.DognauxAart.Web\PE2.DognauxAart.Web.csproj", "{61F367FC-A25D-4C6B-8624-3775E3535803}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tamriel.Domain", "..\Opgavebestanden\Tamriel.Domain\Tamriel.Domain.csproj", "{2A71E1BC-17F8-4E61-82B8-487B6E14836E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{61F367FC-A25D-4C6B-8624-3775E3535803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F367FC-A25D-4C6B-8624-3775E3535803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F367FC-A25D-4C6B-8624-3775E3535803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A71E1BC-17F8-4E61-82B8-487B6E14836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71E1BC-17F8-4E61-82B8-487B6E14836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71E1BC-17F8-4E61-82B8-487B6E14836E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71E1BC-17F8-4E61-82B8-487B6E14836E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
